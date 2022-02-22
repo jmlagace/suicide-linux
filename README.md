@@ -3,6 +3,8 @@ Suicide Linux
 
 [Suicide Linux](https://qntm.org/suicide) is now available from the comfort of Docker!
 
+This updated version comes with a twist... Suicide Linux meet Russian roulette...  what would normally kill you instantly now has 1 in a 6 chance of killing you.
+
 With a single command, an instance of _Suicide Stretch_ will be downloaded and booted up, for all your suicidal needs.
 
 >You know how sometimes if you mistype a filename in Bash, it corrects your spelling and runs the command anyway? Such as when changing directory, or opening a file.
@@ -18,4 +20,4 @@ With a single command, an instance of _Suicide Stretch_ will be downloaded and b
 Running
 -------
 
-    docker run --rm -it -t tiagoad/suicide-linux
+    docker run --rm -it -t jmlagace/suicide-linux
